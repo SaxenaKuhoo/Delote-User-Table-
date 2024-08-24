@@ -7,5 +7,6 @@ Adding New Record
 ![image](https://github.com/user-attachments/assets/d33f3cbf-0337-4867-bd0a-a58503c85811)
 
 Editing Record
-![image](https://github.com/user-attachments/assets/69ecd112-71f1-4ca1-b497-d7084222e03a)
+![image](https://github.com/user-attachments/assets/f105b719-d109-4bdc-a839-facdff087604)
+
 
